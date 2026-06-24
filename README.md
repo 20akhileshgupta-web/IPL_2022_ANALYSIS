@@ -104,12 +104,10 @@ Project includes:
 ```bash
 IPL_2022_EDA_Project/
 │
+├──IPL.csv
 ├── IPL_2022_EDA_Project.ipynb
-├── IPL.csv
 ├── README.md
-└── requirements.txt
 ```
-
 ---
 
 ## Future Improvements
